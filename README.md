@@ -16,6 +16,7 @@ Gas-related hospitalisations have fallen dramatically — down -68.2%, likely re
 Sharp objects remain stubbornly stable — virtually unchanged over 16 years (-0.2%), suggesting limited progress in this area.
 
 Charts
+
 chart1_trends.png — All mechanisms over time (2008–09 to 2023–24)
 
 chart2_ranking.png — Mechanisms ranked by 2023–24 volume
