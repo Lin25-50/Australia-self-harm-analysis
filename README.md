@@ -17,8 +17,11 @@ Sharp objects remain stubbornly stable — virtually unchanged over 16 years (-0
 
 Charts
 chart1_trends.png — All mechanisms over time (2008–09 to 2023–24)
+
 chart2_ranking.png — Mechanisms ranked by 2023–24 volume
+
 chart3_change.png — Percentage change per mechanism over 16 years
+
 Tools used
 Python (pandas, matplotlib)
 Data source: AIHW NHMD Excel workbook
