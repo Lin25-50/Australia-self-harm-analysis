@@ -4,6 +4,7 @@ Data source
 Australian Institute of Health and Welfare (AIHW) — National Hospital Morbidity Database
 
 Key findings
+
 Sedatives remain the leading mechanism — accounting for 8,723 hospitalisations in 2023–24, nearly double the next highest mechanism (analgesics at 4,851).
 
 Overall hospitalisations have declined since a 2016–17 peak — total separations fell from ~33,000 in 2016–17 to ~24,000 in 2023–24, a 27% reduction.
